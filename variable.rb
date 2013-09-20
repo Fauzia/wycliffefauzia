@@ -1,0 +1,2 @@
+name = "fauzia"
+puts name `
